@@ -8,10 +8,8 @@ The thesis looks at Stable Diffusion v1.4 and asks where a visual concept
 cross-attention layers, whether that direction is causal, and whether it
 can be used to add or remove the concept.
 
-The notebook is too large for GitHub's preview. To see it with all outputs:
-
-- [Open in Google Colab](https://colab.research.google.com/github/GiannisPro153/thesis-sd-cross-attention/blob/main/thesis_experiments.ipynb)
-- [View on nbviewer](https://nbviewer.org/github/GiannisPro153/thesis-sd-cross-attention/blob/main/thesis_experiments.ipynb)
+The notebook is too large for GitHub's preview. To see it with all outputs,
+[open it in Google Colab](https://colab.research.google.com/github/GiannisPro153/thesis-sd-cross-attention/blob/main/thesis_experiments.ipynb).
 
 Run on Colab (A100) with diffusers 0.41. The sections follow Chapter 6 of
 the thesis. The concept directions are computed once (section 1.1) and
